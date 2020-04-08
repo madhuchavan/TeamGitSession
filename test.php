@@ -8,3 +8,4 @@
 
 echo 'test GIT';
 echo  'pull';
+echo 'conflict';
