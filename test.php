@@ -7,3 +7,4 @@
  */
 
 echo 'test GIT';
+echo  'pull';
